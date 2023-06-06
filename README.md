@@ -1,7 +1,7 @@
 
-Desde el Script "Ammonia_Water_Properties" importar la función PropsSI_NH3_H2O
+Desde el Script "Ammonia_Water_Properties" importar la función PropsSI_NH3_H2O. Se debe tener también el Script "inverse" en la carpeta de trabajo.
 
-Función que entrega las propiedades de la mezcla de agua con amoniaco.
+La función "PropsSI_NH3_H2O" entrega las propiedades de la mezcla de agua con amoniaco.
 
 Parámetros:
 
